@@ -2,8 +2,7 @@ package main
 
 import (
 	"log"
-
-	"../maratonafullcycle/actions"
+	"maratonafullcycle/actions"
 )
 
 // main is the starting point for your Buffalo application.

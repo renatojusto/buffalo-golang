@@ -1,7 +1,7 @@
 package grifts
 
 import (
-	"../maratonafullcycle/actions"
+	"maratonafullcycle/actions"
 	"github.com/gobuffalo/buffalo"
 )
 
